@@ -7,6 +7,8 @@ A full-stack collaborative task management application built with React + Node.j
 ## 🚀 Live Demo
 
 Deploy URL: (fill in after Railway deployment)
+<img width="1440" height="2496" alt="image" src="https://github.com/user-attachments/assets/bff39b3d-835d-47a3-b850-e9a7e1459eef" />
+
 
 ---
 
