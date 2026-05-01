@@ -1,0 +1,8 @@
+[phases.build]
+cmds = [
+  "cd frontend && npm install && npm run build",
+  "cd backend && npm install"
+]
+
+[start]
+cmd = "cd backend && node src/server.js"
